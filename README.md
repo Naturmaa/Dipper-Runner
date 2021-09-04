@@ -1,2 +1,3 @@
 # Dipper-Runner
-Small Game
+Small game that is not finished yet
+
